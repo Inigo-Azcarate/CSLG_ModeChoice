@@ -11,12 +11,15 @@ Inside each folder, you have a brief explanation of how code flow.
 
 ![](/images/work_flow.png)
 
-1. Download (clone) the repo on your own computer.
-2. a) [long version]  Download raw_data folder from [this] link and paste it on your \preprocessing folder. Afterwards, run the code on \preprocessing on the order shown on its [README](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/preprocessing).  
-   b) [short version] Download the full input_data folder [here] so you don't need to run the code in \preprocessing.
-3. a) [long version]  Run `pre_model.ipynb` and `training_model.ipynb` in that order to generate the machine learning model.
-   b) [short version] Donwload the results folder from [this] link and paste it inside \model. You can directly run `training_model.ipynb` to generate the machine learning model.
-4. Use the model that is saved on \models directory on \model to predict mobility mode choice models. 
+1) Download (clone) the repo on your own computer.
+
+2 a) [long version]  Download raw_data folder from [this] link and paste it on your \preprocessing folder. Afterwards, run the code on \preprocessing on the order shown on its [README](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/preprocessing).  
+  b) [short version] Download the full input_data folder [here] so you don't need to run the code in \preprocessing.
+
+3 a) [long version]  Run `pre_model.ipynb` and `training_model.ipynb` in that order to generate the machine learning model.
+  b) [short version] Donwload the results folder from [this] link and paste it inside \model. You can directly run `training_model.ipynb` to generate the machine learning model.
+
+4) Use the model that is saved on \models directory on \model to predict mobility mode choice models. 
 
 
 
