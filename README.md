@@ -1,9 +1,9 @@
 **Mobility mode choice model using Gipuzkoa (Spain) as a use case**
 
 # Folders
-- [model](https://github.com/Inigo-Azcarate/Mobility_Choice/tree/main/model) contains the code to create the supervised learning AI model that predicts the mobility choices. 
-- [input_data](https://github.com/Inigo-Azcarate/Mobility_Choice/tree/main/input_data) contains all the data necessary to run the AI model in the \model folder. Some of the containing data is raw and the rest is a result of the codes in the \preprocessing folder.
-- [preprocessing](https://github.com/Inigo-Azcarate/Mobility_Choice/tree/main/preprocessing) contains the codes and the raw data to create the files in input files in \input_data.
+- [input_data](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/input_data) contains all the data necessary to run the AI model in the [model](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/model) folder. Most the data is generated after running the code in the [preprocessing](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/preprocessing) folder. If you are having any kind of problem, you can download the file with all the data to run the model on this link: 
+- [model](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/model) contains the code to create the supervised learning AI model that predicts the mobility choices. 
+- [preprocessing](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/preprocessing) contains the codes and the raw data to create the files in input files in \input_data.
 
 
 # Code files
