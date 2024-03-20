@@ -10,8 +10,8 @@ Inside each folder, you have a brief explanation of how code flow.
 # Make the model work
 1. Download (clone) the repo on your own computer.
 2. Download raw_data folder from here and paste it on the [preprocessing](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/preprocessing) folder.
-3. a) A.
-   b) A.
+3a. Download (clone) the repo on your own computer.
+3b. Download (clone) the repo on your own computer.
 3b. A.
 4. A.
 
