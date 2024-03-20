@@ -5,11 +5,12 @@
 - [model](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/model) contains the code to create the supervised learning AI model that predicts the mobility choices. 
 - [preprocessing](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/preprocessing) contains the code to generate the files in \input_data.
 
-Inside each folder, you have a brief explanation of how code flow.
+Each directory contains a brief guide explaining the functionality of that particular folder.
 
 # Make the model work
 
 ![](/images/work_flow.png)
+<img src="/images/work_flow.png" width="100" height="100" />
 
 1. Download (clone) the repo on your own computer.
 
@@ -17,9 +18,9 @@ Inside each folder, you have a brief explanation of how code flow.
    b) [short version] Download the full input_data folder [here] so you don't need to run the code in \preprocessing.
 
 3. a) [long version]  Run `pre_model.ipynb` and `training_model.ipynb` in that order to generate the machine learning model.  
-   b) [short version] Donwload the results folder from [this] link and paste it inside \model. You can directly run `training_model.ipynb` to generate the machine learning model.
+   b) [short version] Download the results folder from [this] link and paste it inside \model. You can directly run `training_model.ipynb` to generate the machine learning model.
 
-4. Use the model that is saved on \models directory on \model to predict mobility mode choice models. 
+4. Use the model that is saved on \models directory on \model to predict mobility mode choices in different scenarios. 
 
 
 
