@@ -11,7 +11,7 @@ Inside each folder, you have a brief explanation of how code flow.
 
 1. Download (clone) the repo on your own computer.
 2. Download raw_data folder from here and paste it on the \preprocessing folder.
-3. a) [long version]  Download raw_data folder from [this] link and paste it on your \preprocessing folder. Afterwards, run the code on \preprocessing on the order shown on its [README](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/preprocessing).
+3. a) [long version]  Download raw_data folder from [this] link and paste it on your \preprocessing folder. Afterwards, run the code on \preprocessing on the order shown on its [README](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/preprocessing).  
    b) [short version] Download the full input_data folder [here] so you don't need to run the code in \preprocessing.
 4. A
 
