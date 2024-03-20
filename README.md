@@ -9,8 +9,7 @@ Each directory contains a brief guide explaining the functionality of that parti
 
 # Make the model work
 
-![](/images/work_flow.png)
-<img src="/images/work_flow.png" width="600" />
+<img src="/images/work_flow.png" width="700" />
 
 1. Download (clone) the repo on your own computer.
 
