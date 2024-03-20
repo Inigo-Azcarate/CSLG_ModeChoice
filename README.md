@@ -10,7 +10,10 @@ Each directory contains a brief guide explaining the functionality of that parti
 # Make the model work
 
 ![](/images/work_flow.png)
-<img src="/images/work_flow.png" width="100" height="100" />
+<img src="/images/work_flow.png" width="350" height="300" />
+<div style="text-align: center;">
+    <img src="/images/work_flow.png" width="350" height="300" /> <!-- Adjust the width as needed -->
+</div>
 
 1. Download (clone) the repo on your own computer.
 
