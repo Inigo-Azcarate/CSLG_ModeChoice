@@ -1,9 +1,9 @@
 **Mobility mode choice model using Gipuzkoa (Spain) as a use case**
 
 # Folders
-- [input_data](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/input_data) contains all the data necessary to run the AI model in the \model folder. Most data is generated after running the code in the \preprocessing folder. If you are having any kind of problem, you can download the file with all the data to run the model on this link: 
+- [input_data](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/input_data) contains all the data necessary to run the AI model in the \model folder. Most data is generated after running the code in the \preprocessing folder. If you are having any kind of problem, you can download the file with all the data to run the model on [this] link.
 - [model](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/model) contains the code to create the supervised learning AI model that predicts the mobility choices. 
-- [preprocessing](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/preprocessing) contains the codes to generate the files in \input_data. To run the code, you will have to download the raw data folder from this link and paste it inside /preprocessing.
+- [preprocessing](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/preprocessing) contains the code to generate the files in \input_data.
 
 Inside each folder, you have a brief explanation of how code flow.
 
@@ -11,8 +11,8 @@ Inside each folder, you have a brief explanation of how code flow.
 
 1. Download (clone) the repo on your own computer.
 2. Download raw_data folder from here and paste it on the \preprocessing folder.
-3. a) [long version]  Run the code on \preprocessing on the order shown on its README (https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/preprocessing).
-   b) [short version] Download the 
+3. a) [long version]  Download raw_data folder from [this] link and paste it on your \preprocessing folder. Afterwards, run the code on \preprocessing on the order shown on its [README](https://github.com/Inigo-Azcarate/CSLG_ModeChoice/tree/main/preprocessing).
+   b) [short version] Download the full input_data folder [here] so you don't need to run the code in \preprocessing.
 4. A
 
 
