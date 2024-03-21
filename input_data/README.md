@@ -1,3 +1,3 @@
 - `data_towns.xlsx` and `public_transport_cost.xlsx` are input files for the model that are not generated on the \preprocessing folder. They are raw data.
 
-- The rest of the input_files are generated after running the whole code in \preprocessing. If you are having issues with these codes, download the whole \input_files folder from [this](https://drive.google.com/drive/folders/13uN8kvLhV2v1BW2bOM5owNVi9Ct8cwQv?usp=sharing) link.
+- The rest of the input_files are generated after running the whole code in \preprocessing. If you are having issues with these codes, download the whole \input_files folder from [this](https://drive.google.com/drive/folders/13u5F34FRRHQqKfsz_SR6Hg-2XtPmNWdI?usp=sharing) link.
