@@ -8,4 +8,4 @@
 
 Notes: 
 - To run `pre_model.ipynb` you will need a GOOGLE API key to download data from the *distancematrix* API.
-- If you are having trouble running `pre_model.ipynb`, download the following folder and paste it on the \model directory.
+- If you are having trouble running `pre_model.ipynb`, download the [results](https://drive.google.com/drive/folders/1FFE9koNYpAtOD4vMElMvnr7FvtkDbeBl?usp=sharing) folder and paste it on the \model directory.
