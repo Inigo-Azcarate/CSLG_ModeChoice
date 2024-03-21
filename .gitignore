@@ -17,8 +17,8 @@ model/logs
 Papers
 preprocessing/analysis_graphs.ipynb
 preprocessing/name_to_latlong.ipynb
-preprocessing/GTFS_train_24h.ipynb
-preprocessing/GTFS_transit_24h.ipynb
+preprocessing/GTFS_train_24.ipynb
+preprocessing/GTFS_transit_24.ipynb
 preprocessing/data
 preprocessing/logs
 preprocessing/raw_data
